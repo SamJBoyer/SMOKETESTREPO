@@ -1,0 +1,8 @@
+# Ignore everything in this repo for Cursor context
+*
+
+# Except agent instructions and Cursor agent config
+!AGENTS.md
+!.cursorignore
+!.cursor/
+!.cursor/**
