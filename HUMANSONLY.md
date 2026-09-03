@@ -1,1 +1,1 @@
-run pump_git_issues.py to create a bunch of smoke tests spam. 
+run pump_git.py to create a bunch of smoke tests spam issues. 
