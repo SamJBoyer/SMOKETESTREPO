@@ -1,0 +1,7 @@
+FAQ
+
+Q: What is this repository?
+A: A worktest for agents to implement simple git smoketests.
+
+Q: How should agents test changes?
+A: Test quickly and simply.
