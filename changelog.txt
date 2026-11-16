@@ -1,0 +1,8 @@
+Changelog
+=========
+
+All notable changes to this repository are recorded in this file.
+
+## Unreleased
+
+- Added changelog.txt (agent smoke test).
